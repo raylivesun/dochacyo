@@ -35,4 +35,4 @@ one of the licenses provided at the top of the source repository
 location provided to the authors.
 
 ## author information
-admin ................
+admin
